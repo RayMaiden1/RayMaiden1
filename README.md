@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rayneisha! Passionate Cybersecurity Analyst </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b> Azure/Cloud Cybersecurity Projects </b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/RayMaiden1/Honeynet-SOC)
