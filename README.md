@@ -2,8 +2,8 @@
 
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
-- <b> Azure/Cloud Cybersecurity Projects </b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/RayMaiden1/Honeynet-SOC)
+
+  
 
 
 
